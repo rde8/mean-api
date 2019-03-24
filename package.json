@@ -1,0 +1,16 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "api example",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Rimita",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
